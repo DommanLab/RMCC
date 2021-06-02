@@ -25,7 +25,7 @@ Variants P.1, B.1.526, B.1.427 & B.1.249 are currently found at low frequencies 
 
 <div class="rimage default">
 
-<img width="100%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/NM_narrative/images/emerging_lineage_frequencies_NM.png" />
+<img width="100%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/NM_narrative/images/emerging_lineage_frequencies_NM2.png" />
 
 </div>
 
