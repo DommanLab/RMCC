@@ -10,6 +10,17 @@ dataset: "https://nextstrain.org/community/DommanLab/RMCC/ncov/NM"
 abstract: 
 ---
 
+
+# [Variants of Concern](https://nextstrain.org/community/DommanLab/RMCC@NM_narrative/ncov/NM?c=emerging_lineage&d=tree&f_division=New%20Mexico&p=full)
+
+As SARS-CoV-2 replicates, it acquires mutations. Some of these mutations confer traits that benefit the virus, such as increased transmissibility. 
+These beneficial mutations increase viral fitness and give the virus variant an evolutionary advantage.
+
+Mutations in the SARS-CoV-2 genome can also influence viral traits important to human health. 
+When there is evidence that a variant is associated with increased transmissibility, increased disease severity, or impacts the success of treatments, vaccines, or diagnostics, it may be categorized as a variant of concern (VOC).
+
+Multiple VOCs have emerged independently from one another. This means that lineages from different clades (branches on the tree) have independently acquired mutations affecting important traits like transmissibility.
+
 # [Emerging Lineages](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
 
 Beginning in fall 2020, variants of concern (VOCs) have been increasing in frequency in New Mexico.
@@ -17,7 +28,7 @@ Beginning in fall 2020, variants of concern (VOCs) have been increasing in frequ
 The variant B.1.1.7 (blue) has risen the most dramatically in frequency, mirroring national trends. In May 2021, B.1.1.7 made up about 65% of New Mexico sequences.
 Increased transmissibility fueled the spread of B.1.1.7, but vaccines remain effective against this variant.
 
-Variants P.1, B.1.526, B.1.427 & B.1.249 are currently found at low frequencies in New Mexico.
+VOCs P.1, B.1.427 & B.1.249 and variant of interest (VOI) B.1.526 are currently found at low frequencies in New Mexico.
 
 ```auspiceMainDisplayMarkdown
 
@@ -31,6 +42,10 @@ Variants P.1, B.1.526, B.1.427 & B.1.249 are currently found at low frequencies 
 
 ```
 
-# [Emerging Lineages](https://nextstrain.org/community/DommanLab/RMCC@NM_narrative/ncov/NM?c=emerging_lineage&d=tree&f_division=New%20Mexico&p=full)
+# [P.1 Lineage](https://nextstrain.org/community/DommanLab/RMCC@NM_narrative/ncov/NM?c=emerging_lineage&d=tree,map&f_division=New%20Mexico&label=clade:20J/501Y.V3&p=grid&tl=location)
 
-Multiple variants of concern (VOCs) have arisen independently from one another. Lineages from different clades (branches on the tree) have acquired mutations that increase viral fitness, such as increased transmissibility.
+Several P.1 sequences have been reported in New Mexico since March 2021. P.1 has reduced susceptibility to some monoclonal antibody treatments.
+
+# [B.1.1.7](https://nextstrain.org/community/DommanLab/RMCC@NM_narrative/ncov/NM?c=emerging_lineage&d=tree,map&f_division=New%20Mexico&p=grid)
+
+B.1.1.7 is common in New Mexico, and has been reported throughout the state.
