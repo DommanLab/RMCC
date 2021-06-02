@@ -30,3 +30,7 @@ Variants P.1, B.1.526, B.1.427 & B.1.249 are currently found at low frequencies 
 </div>
 
 ```
+
+# [Emerging Lineages] (https://nextstrain.org/community/DommanLab/RMCC@NM_narrative/ncov/NM?c=emerging_lineage&d=tree&f_division=New%20Mexico&p=full)
+
+Multiple variants of concern (VOCs) have arisen independently from one another. Lineages from different clades (branches on the tree) have acquired mutations that increase viral fitness, such as increased transmissibility.
