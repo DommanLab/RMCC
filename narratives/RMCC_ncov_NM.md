@@ -21,9 +21,9 @@ When there is evidence that a variant is associated with increased transmissibil
 
 Multiple VOCs have emerged independently from one another. This means that lineages from different clades (branches on the tree) have independently acquired mutations affecting important traits like transmissibility.
 
-# [Emerging Lineages](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
+# [VOCs in New Mexico](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
 
-Beginning in fall 2020, variants of concern (VOCs) have been increasing in frequency in New Mexico.
+Beginning in the fall of 2020, variants of concern (VOCs) have been increasing in frequency in New Mexico.
 
 The variant B.1.1.7 (blue) has risen the most dramatically in frequency, mirroring national trends. In May 2021, B.1.1.7 made up about 65% of New Mexico sequences.
 Increased transmissibility fueled the spread of B.1.1.7, but vaccines remain effective against this variant.
