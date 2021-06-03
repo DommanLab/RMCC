@@ -6,7 +6,7 @@ authors:
 authorLinks: 
 affiliations: "The University of New Mexico Health Sciences Center"
 date: "June 2, 2021"
-dataset: "https://nextstrain.org/community/DommanLab/RMCC/ncov/NM"
+dataset: "https://nextstrain.org/community/DommanLab/RMCC@NM_narrative/ncov/NM"
 abstract: 
 ---
 
@@ -21,7 +21,7 @@ When there is evidence that a variant is associated with increased transmissibil
 
 Multiple VOCs have emerged independently from one another. This means that lineages from different clades (branches on the tree) have independently acquired mutations affecting important traits like transmissibility.
 
-# [VOCs in New Mexico](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
+# [VOCs in New Mexico](https://nextstrain.org/community/DommanLab/RMCC@NM_narrative/ncov/NM)
 
 Beginning in the fall of 2020, variants of concern (VOCs) have been increasing in frequency in New Mexico.
 
