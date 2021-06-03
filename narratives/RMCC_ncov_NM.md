@@ -49,11 +49,11 @@ The phylogeny shows evidence of community transmission of P.1 in New Mexico.
 
 ```auspiceMainDisplayMarkdown
 
-## Emerging Lineages New Mexico
+## P.1 in New Mexico
 
 <div class="rimage default">
 
-<img width="100%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/NM_narrative/images/P.1_NM_3June2021.png" />
+<img width="80%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/NM_narrative/images/P.1_NM_3June2021.png" />
 
 </div>
 
