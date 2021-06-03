@@ -44,4 +44,17 @@ VOCs P.1, B.1.427 & B.1.249 and variant of interest (VOI) B.1.526 are currently 
 
 # [P.1 Lineage](https://nextstrain.org/community/DommanLab/RMCC@NM_narrative/ncov/NM?c=emerging_lineage&d=tree,map&f_division=New%20Mexico&label=clade:20J/501Y.V3&p=grid&tl=location)
 
-Several P.1 sequences have been reported in New Mexico since March 2021. P.1 has reduced susceptibility to some monoclonal antibody treatments.
+Several P.1 sequences have been reported in New Mexico since March 2021. P.1 has reduced susceptibility to some monoclonal antibody treatments. 
+The phylogeny shows evidence of community transmission of P.1 in New Mexico.
+
+```auspiceMainDisplayMarkdown
+
+## Emerging Lineages New Mexico
+
+<div class="rimage default">
+
+<img width="100%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/NM_narrative/images/P.1_NM_3June2021.png" />
+
+</div>
+
+```
