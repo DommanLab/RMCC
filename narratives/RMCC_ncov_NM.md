@@ -58,3 +58,21 @@ The phylogeny shows evidence of community transmission of Gamma in New Mexico.
 </div>
 
 ```
+
+# [Transmission](https://nextstrain.org/community/DommanLab/RMCC@NM_narrative/ncov/NM)
+
+Unsurprisingly, the sequencing data show evidence of transmission between New Mexico and neighboring states, including Texas, Colorado, Arizona, and California.
+
+This plot shows transmission data for March through May of 2021.
+
+```auspiceMainDisplayMarkdown
+
+## Transmission
+
+<div class="rimage default">
+
+<img width="90%" class="plot" src="https://github.com/DommanLab/RMCC/blob/NM_narrative/images/NM_transmission.png" />
+
+</div>
+
+```
