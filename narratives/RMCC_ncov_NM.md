@@ -36,7 +36,7 @@ VOCs Gamma (P.1), Epsilon (B.1.427 & B.1.249) and variant of interest (VOI) Iota
 
 <div class="rimage default">
 
-<img width="100%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/images/emerging_lineage_frequencies_NM2.png" />
+<img width="100%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/emerging_lineage_frequencies_NM2.png" />
 
 </div>
 
@@ -53,7 +53,7 @@ This phylogeny shows evidence of community transmission of Gamma in New Mexico.
 
 <div class="rimage default">
 
-<img height="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/images/P.1_NM_3June2021.png" />
+<img height="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/P.1_NM_3June2021.png" />
 
 </div>
 
@@ -71,7 +71,7 @@ This plot shows transmission data for March through May of 2021.
 
 <div class="rimage default">
 
-<img width="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/images/NM_transmission.png" />
+<img width="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/NM_transmission.png" />
 
 </div>
 
