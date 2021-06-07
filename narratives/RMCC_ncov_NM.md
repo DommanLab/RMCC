@@ -5,7 +5,7 @@ authors:
   - Daryl Domman
 authorLinks: 
 affiliations: "The University of New Mexico Health Sciences Center"
-date: "June 2, 2021"
+date: "June 7, 2021"
 dataset: "https://nextstrain.org/community/DommanLab/RMCC@NM_narrative/ncov/NM"
 abstract: 
 ---
@@ -25,10 +25,10 @@ Multiple VOCs have emerged independently from one another. This means that linea
 
 Beginning in the fall of 2020, variants of concern (VOCs) have been increasing in frequency in New Mexico.
 
-The variant B.1.1.7 (blue) has risen the most dramatically in frequency, mirroring national trends. In May 2021, B.1.1.7 made up about 65% of New Mexico sequences.
-Increased transmissibility fueled the spread of B.1.1.7, but vaccines remain effective against this variant.
+The Alpha variant (B.1.1.7, blue) has risen the most dramatically in frequency, mirroring national trends. In May 2021, Alpha made up about 65% of New Mexico sequences.
+Increased transmissibility fueled the spread of Alpha, but vaccines remain effective against this variant.
 
-VOCs P.1, B.1.427 & B.1.249 and variant of interest (VOI) B.1.526 are currently found at low frequencies in New Mexico.
+VOCs Gamma (P.1), Epsilon (B.1.427 & B.1.249) and variant of interest (VOI) Iota (B.1.526) are currently found at low frequencies in New Mexico.
 
 ```auspiceMainDisplayMarkdown
 
@@ -42,18 +42,18 @@ VOCs P.1, B.1.427 & B.1.249 and variant of interest (VOI) B.1.526 are currently 
 
 ```
 
-# [P.1 Lineage](https://nextstrain.org/community/DommanLab/RMCC@NM_narrative/ncov/NM?c=emerging_lineage&d=tree,map&f_division=New%20Mexico&label=clade:20J/501Y.V3&p=grid&tl=location)
+# [Gamma (P.1) Lineage](https://nextstrain.org/community/DommanLab/RMCC@NM_narrative/ncov/NM?c=emerging_lineage&d=tree,map&f_division=New%20Mexico&label=clade:20J/501Y.V3&p=grid&tl=location)
 
-Several P.1 sequences have been reported in New Mexico since March 2021. P.1 has reduced susceptibility to some monoclonal antibody treatments. 
-The phylogeny shows evidence of community transmission of P.1 in New Mexico.
+Several Alpha sequences have been reported in New Mexico since March 2021. Gamma has reduced susceptibility to some monoclonal antibody treatments. 
+The phylogeny shows evidence of community transmission of Gamma in New Mexico.
 
 ```auspiceMainDisplayMarkdown
 
-## P.1 in New Mexico
+## Gamma in New Mexico
 
 <div class="rimage default">
 
-<img width="80%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/NM_narrative/images/P.1_NM_3June2021.png" />
+<img height="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/NM_narrative/images/P.1_NM_3June2021.png" />
 
 </div>
 
