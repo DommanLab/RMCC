@@ -47,7 +47,7 @@ As of May 2021, an additional 20% of sequences came from other VOCs or variants 
 The B.1.617 variant was first reported in India in February 2021. It is currently classified as a variant of interest (VOI) by the CDC
 based on potential reductions in the efficacy of vaccines and monoclonal antibody treatments against this variant.
 
-This phylogeny shows evidence of multiple introductions of B.1.617 to Wyoming, as well as evidence of community transmission.
+As of June 7, 2021, this data set includes six B.1.617 sequences from Wyoming. This phylogeny shows evidence of multiple introductions of B.1.617 to Wyoming, as well as evidence of community transmission.
 
 
 
