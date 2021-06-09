@@ -1,1 +1,13 @@
 auspice/*.json filter=lfs diff=lfs merge=lfs -text
+auspice/RMCC_ncov_MT_root-sequence.json filter=lfs diff=lfs merge=lfs -text
+auspice/RMCC_ncov_MT_tip-frequencies.json filter=lfs diff=lfs merge=lfs -text
+auspice/RMCC_ncov_NM_tip-frequencies.json filter=lfs diff=lfs merge=lfs -text
+auspice/RMCC_ncov_WY.json filter=lfs diff=lfs merge=lfs -text
+auspice/RMCC_ncov_WY_root-sequence.json filter=lfs diff=lfs merge=lfs -text
+auspice/RMCC_ncov_WY_tip-frequencies.json filter=lfs diff=lfs merge=lfs -text
+auspice/RMCC_ncov_ID.json filter=lfs diff=lfs merge=lfs -text
+auspice/RMCC_ncov_ID_root-sequence.json filter=lfs diff=lfs merge=lfs -text
+auspice/RMCC_ncov_NM.json filter=lfs diff=lfs merge=lfs -text
+auspice/RMCC_ncov_NM_root-sequence.json filter=lfs diff=lfs merge=lfs -text
+auspice/RMCC_ncov_ID_tip-frequencies.json filter=lfs diff=lfs merge=lfs -text
+auspice/RMCC_ncov_MT.json filter=lfs diff=lfs merge=lfs -text
