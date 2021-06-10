@@ -42,7 +42,7 @@ As of May 2021, an additional 20% of sequences came from other VOCs or variants 
 
 ```
 
-# [B.1.617 Lineage](https://nextstrain.org/community/DommanLab/RMCC/ncov/WY?c=emerging_lineage&d=tree&label=clade:21A&p=full&r=division&tl=division)
+# [B.1.617 Lineage](https://nextstrain.org/community/DommanLab/RMCC/ncov/WY)
 
 The B.1.617 variant was first reported in India in February 2021. It is currently classified as a variant of interest (VOI) by the CDC
 based on potential reductions in the efficacy of vaccines and monoclonal antibody treatments against this variant.
