@@ -64,6 +64,23 @@ As of June 16, 2021, this data set includes 20 Delta sequences from Wyoming. Thi
 
 ```
 
+# [Gamma (P.1) Lineage](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
+
+Gamma sequences have been reported in Wyoming since March 2021. Gamma has reduced susceptibility to some monoclonal antibody treatments. 
+This phylogeny shows evidence of community transmission of Gamma in Wyoming.
+
+```auspiceMainDisplayMarkdown
+
+## Gamma in Wyoming
+
+<div class="rimage default">
+
+<img height="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/P.1_WY.png" />
+
+</div>
+
+```
+
 # [Transmission](https://nextstrain.org/community/DommanLab/RMCC/ncov/WY)
 
 Unsurprisingly, the sequencing data show evidence of transmission between Wyoming and nearby states, including Colorado, Montana, and California.
