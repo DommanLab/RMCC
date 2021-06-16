@@ -75,7 +75,7 @@ This phylogeny shows evidence of community transmission of Gamma in Wyoming.
 
 <div class="rimage default">
 
-<img height="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/P.1_WY.png" />
+<img width="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/P.1_WY.png" />
 
 </div>
 
