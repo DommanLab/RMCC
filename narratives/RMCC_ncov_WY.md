@@ -5,7 +5,7 @@ authors:
   - Daryl Domman
 authorLinks: 
 affiliations: "The University of New Mexico Health Sciences Center"
-date: "June 7, 2021"
+date: "June 16, 2021"
 dataset: "https://nextstrain.org/community/DommanLab/RMCC@NM_narrative/ncov/WY"
 abstract: 
 ---
@@ -25,10 +25,11 @@ Multiple VOCs have emerged independently from one another. This means that linea
 
 Beginning in the fall of 2020, variants of concern (VOCs) have been increasing in frequency in Wyoming.
 
-The Alpha variant (B.1.1.7, blue) has risen the most dramatically in frequency, mirroring national trends. In May 2021, Alpha made up about 63% of Wyoming sequences.
-Increased transmissibility fueled the spread of Alpha, but vaccines remain effective against this variant.
+The Alpha variant (B.1.1.7, blue) has risen the most dramatically in frequency, mirroring national trends. In June 2021, Alpha makes up about 67% of Wyoming sequences. Increased transmissibility fueled the spread of Alpha, but vaccines remain effective against this variant.
 
-As of May 2021, an additional 20% of sequences came from other VOCs or variants of interest (VOIs). VOCs Gamma (P.1), Epsilon (B.1.427 & B.1.249) and VOIs Iota (B.1.526) and B.1.617 have been reported in Wyoming in recent weeks.
+In recent weeks, the frequency of Delta (B.1.617.2) has been increasing. Delta currently makes up about 14% of Wyoming sequences.
+
+As of June 2021, an additional 20% of sequences came from other VOCs or variants of interest (VOIs). VOCs Gamma (P.1), Epsilon (B.1.427 & B.1.249) and VOIs Iota (B.1.526) have been reported in Wyoming in recent weeks.
 
 ```auspiceMainDisplayMarkdown
 
@@ -42,22 +43,22 @@ As of May 2021, an additional 20% of sequences came from other VOCs or variants 
 
 ```
 
-# [B.1.617 Lineage](https://nextstrain.org/community/DommanLab/RMCC/ncov/WY)
+# [Delta (B.1.617.2) Lineage](https://nextstrain.org/community/DommanLab/RMCC/ncov/WY)
 
-The B.1.617 variant was first reported in India in February 2021. It is currently classified as a variant of interest (VOI) by the CDC
+The B.1.617.2 variant was first reported in India in February 2021. It is currently classified as a variant of interest (VOI) by the CDC
 based on potential reductions in the efficacy of vaccines and monoclonal antibody treatments against this variant.
 
-As of June 7, 2021, this data set includes six B.1.617 sequences from Wyoming. This phylogeny shows evidence of multiple introductions of B.1.617 to Wyoming, as well as evidence of community transmission.
+As of June 16, 2021, this data set includes 20 Delta sequences from Wyoming. This phylogeny shows evidence of multiple introductions of Delta to Wyoming, as well as evidence of community transmission.
 
 
 
 ```auspiceMainDisplayMarkdown
 
-## B.1.617 in Wyoming
+## Delta in Wyoming
 
 <div class="rimage default">
 
-<img height="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/B.1.617_WY.png" />
+<img height="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/B.1.617.2_WY.png" />
 
 </div>
 
