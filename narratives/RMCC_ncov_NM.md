@@ -65,11 +65,27 @@ Our Nextstrain build includes 15 New Mexico sequences identified as B.1.1.318. T
 
 ```auspiceMainDisplayMarkdown
 
-## Gamma in New Mexico
+## B.1.1.318 in New Mexico
 
 <div class="rimage default">
 
 <img height="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/B.1.1.318_NM.png" />
+
+</div>
+
+```
+
+# [Delta (B.1.617.2) Lineage](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
+
+Our Nextstrain build includes 3 New Mexico sequences identified as Delta. The earliest B.1.1.318 isolate in New Mexico was collected May 3, 2021. The New Mexico Delta isolates cluster most closely with strains from New York.
+
+```auspiceMainDisplayMarkdown
+
+## Delta in New Mexico
+
+<div class="rimage default">
+
+<img height="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/B.1.617.2_NM.png" />
 
 </div>
 
