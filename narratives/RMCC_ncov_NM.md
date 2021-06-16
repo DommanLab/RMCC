@@ -59,6 +59,22 @@ This phylogeny shows evidence of community transmission of Gamma in New Mexico.
 
 ```
 
+# [B.1.1.318 Lineage](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
+
+Our Nextstrain build includes 15 New Mexico sequences identified as B.1.1.318. The earliest B.1.1.318 isolate in New Mexico was collected April 6, 2021. The strains in this tree cluster with sequences from Gabon, with evidence of community transmission in New Mexico. B.1.1.318 is not currently classified as a VOC, but it contains the E484K mutation, which can reduce the efficacy of monoclonal antibody treatments.
+
+```auspiceMainDisplayMarkdown
+
+## Gamma in New Mexico
+
+<div class="rimage default">
+
+<img height="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/B.1.1.318_NM.png" />
+
+</div>
+
+```
+
 # [Transmission](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
 
 Unsurprisingly, the sequencing data show evidence of transmission between New Mexico and neighboring states, including Texas, Colorado, Arizona, and California.
