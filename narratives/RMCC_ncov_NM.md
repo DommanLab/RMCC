@@ -5,7 +5,7 @@ authors:
   - Daryl Domman
 authorLinks: 
 affiliations: "The University of New Mexico Health Sciences Center"
-date: "June 7, 2021"
+date: "June 16, 2021"
 dataset: "https://nextstrain.org/community/DommanLab/RMCC@NM_narrative/ncov/NM"
 abstract: 
 ---
@@ -36,7 +36,7 @@ VOCs Gamma (P.1), Epsilon (B.1.427 & B.1.249) and variant of interest (VOI) Iota
 
 <div class="rimage default">
 
-<img width="100%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/emerging_lineage_frequencies_NM2.png" />
+<img width="100%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/emerging_lineage_frequencies_NM.png" />
 
 </div>
 
