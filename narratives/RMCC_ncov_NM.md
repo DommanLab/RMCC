@@ -53,7 +53,7 @@ This phylogeny shows evidence of community transmission of Gamma in New Mexico.
 
 <div class="rimage default">
 
-<img width="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/P.1_NM.png" />
+<img height="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/P.1_NM.png" />
 
 </div>
 
