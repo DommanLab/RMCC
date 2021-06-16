@@ -42,7 +42,7 @@ VOCs Gamma (P.1), Epsilon (B.1.427 & B.1.249) and variant of interest (VOI) Iota
 
 ```
 
-# [Gamma (P.1) Lineage](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM?c=emerging_lineage&d=tree,map&f_division=New%20Mexico&label=clade:20J/501Y.V3&p=grid&tl=location)
+# [Gamma (P.1) Lineage](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
 
 Several Gamma sequences have been reported in New Mexico since March 2021. Gamma has reduced susceptibility to some monoclonal antibody treatments. 
 This phylogeny shows evidence of community transmission of Gamma in New Mexico.
