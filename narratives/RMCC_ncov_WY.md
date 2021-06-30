@@ -5,7 +5,7 @@ authors:
   - Daryl Domman
 authorLinks: 
 affiliations: "The University of New Mexico Health Sciences Center"
-date: "June 16, 2021"
+date: "June 30, 2021"
 dataset: "https://nextstrain.org/community/DommanLab/RMCC@NM_narrative/ncov/WY"
 abstract: 
 ---
@@ -48,7 +48,7 @@ As of June 2021, an additional 20% of sequences came from other VOCs or variants
 The B.1.617.2 variant was first reported in India in February 2021. It is currently classified as a variant of interest (VOI) by the CDC
 based on potential reductions in the efficacy of vaccines and monoclonal antibody treatments against this variant.
 
-As of June 16, 2021, this data set includes 20 Delta sequences from Wyoming. This phylogeny shows evidence of multiple introductions of Delta to Wyoming, as well as evidence of community transmission.
+As of June 30, 2021, this data set includes 20 Delta sequences from Wyoming. This phylogeny shows evidence of multiple introductions of Delta to Wyoming, as well as evidence of community transmission.
 
 
 
@@ -58,7 +58,7 @@ As of June 16, 2021, this data set includes 20 Delta sequences from Wyoming. Thi
 
 <div class="rimage default">
 
-<img height="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/B.1.617.2_WY.png" />
+<img width="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/B.1.617.2_WY.png" />
 
 </div>
 
@@ -66,7 +66,7 @@ As of June 16, 2021, this data set includes 20 Delta sequences from Wyoming. Thi
 
 # [Gamma (P.1) Lineage](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
 
-Gamma sequences have been reported in Wyoming since March 2021. Gamma has reduced susceptibility to some monoclonal antibody treatments. 
+Our data set includes 28 Gamma sequences from Wyoming. Gamma sequences have been reported in Wyoming since March 2021. Gamma has reduced susceptibility to some monoclonal antibody treatments. 
 This phylogeny shows evidence of community transmission of Gamma in Wyoming.
 
 ```auspiceMainDisplayMarkdown
