@@ -55,7 +55,7 @@ multiple times, and it also shows evidence of community transmission of Gamma in
 
 <div class="rimage default">
 
-<img height="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/P.1_NM.png" />
+<img width="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/P.1_NM.png" />
 
 </div>
 
@@ -71,7 +71,7 @@ Our Nextstrain build includes 15 New Mexico sequences identified as B.1.1.318. T
 
 <div class="rimage default">
 
-<img height="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/B.1.1.318_NM.png" />
+<img width="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/B.1.1.318_NM.png" />
 
 </div>
 
@@ -87,7 +87,7 @@ Our Nextstrain build includes 3 New Mexico sequences identified as Delta. The ea
 
 <div class="rimage default">
 
-<img height="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/B.1.617.2_NM.png" />
+<img width="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/B.1.617.2_NM.png" />
 
 </div>
 
