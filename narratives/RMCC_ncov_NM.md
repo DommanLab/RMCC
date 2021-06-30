@@ -5,7 +5,7 @@ authors:
   - Daryl Domman
 authorLinks: 
 affiliations: "The University of New Mexico Health Sciences Center"
-date: "June 16, 2021"
+date: "June 30, 2021"
 dataset: "https://nextstrain.org/community/DommanLab/RMCC@NM_narrative/ncov/NM"
 abstract: 
 ---
@@ -25,8 +25,9 @@ Multiple VOCs have emerged independently from one another. This means that linea
 
 Beginning in the fall of 2020, variants of concern (VOCs) have been increasing in frequency in New Mexico.
 
-The Alpha variant (B.1.1.7, blue) has risen the most dramatically in frequency, mirroring national trends. In May 2021, Alpha made up about 65% of New Mexico sequences.
-Increased transmissibility fueled the spread of Alpha, but vaccines remain effective against this variant.
+The Alpha variant (B.1.1.7, blue) has risen the most dramatically in frequency, mirroring national trends. In May 2021, Alpha made up about 65% of New Mexico sequences. Increased transmissibility fueled the spread of Alpha, but vaccines remain effective against this variant.
+
+The Delta variant (B.1.617.2) makes up 9% of recent samples, and the frequency of this variant is expected to continue rising.
 
 VOCs Gamma (P.1), Epsilon (B.1.427 & B.1.249) and variant of interest (VOI) Iota (B.1.526) are currently found at low frequencies in New Mexico.
 
@@ -44,8 +45,9 @@ VOCs Gamma (P.1), Epsilon (B.1.427 & B.1.249) and variant of interest (VOI) Iota
 
 # [Gamma (P.1) Lineage](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
 
-Several Gamma sequences have been reported in New Mexico since March 2021. Gamma has reduced susceptibility to some monoclonal antibody treatments. 
-This phylogeny shows evidence of community transmission of Gamma in New Mexico.
+Our data set includes 34 Gamma (P.1) sequences from New Mexico. Gamma has been reported in New Mexico since March 2021. 
+Gamma has reduced susceptibility to some monoclonal antibody treatments. This phylogeny suggests that P.1 has been introduced to New Mexico
+multiple times, and it also shows evidence of community transmission of Gamma in New Mexico.
 
 ```auspiceMainDisplayMarkdown
 
