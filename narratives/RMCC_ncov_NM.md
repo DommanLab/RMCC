@@ -5,7 +5,7 @@ authors:
   - Daryl Domman
 authorLinks: 
 affiliations: "The University of New Mexico Health Sciences Center"
-date: "June 7, 2021"
+date: "June 30, 2021"
 dataset: "https://nextstrain.org/community/DommanLab/RMCC@NM_narrative/ncov/NM"
 abstract: 
 ---
@@ -25,8 +25,9 @@ Multiple VOCs have emerged independently from one another. This means that linea
 
 Beginning in the fall of 2020, variants of concern (VOCs) have been increasing in frequency in New Mexico.
 
-The Alpha variant (B.1.1.7, blue) has risen the most dramatically in frequency, mirroring national trends. In May 2021, Alpha made up about 65% of New Mexico sequences.
-Increased transmissibility fueled the spread of Alpha, but vaccines remain effective against this variant.
+The Alpha variant (B.1.1.7, blue) has risen the most dramatically in frequency, mirroring national trends. In May 2021, Alpha made up about 65% of New Mexico sequences. Increased transmissibility fueled the spread of Alpha, but vaccines remain effective against this variant.
+
+The Delta variant (B.1.617.2) makes up 9% of recent samples, and the frequency of this variant is expected to continue rising.
 
 VOCs Gamma (P.1), Epsilon (B.1.427 & B.1.249) and variant of interest (VOI) Iota (B.1.526) are currently found at low frequencies in New Mexico.
 
@@ -36,7 +37,7 @@ VOCs Gamma (P.1), Epsilon (B.1.427 & B.1.249) and variant of interest (VOI) Iota
 
 <div class="rimage default">
 
-<img width="100%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/emerging_lineage_frequencies_NM2.png" />
+<img width="100%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/emerging_lineage_frequencies_NM.png" />
 
 </div>
 
@@ -44,8 +45,9 @@ VOCs Gamma (P.1), Epsilon (B.1.427 & B.1.249) and variant of interest (VOI) Iota
 
 # [Gamma (P.1) Lineage](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
 
-Several Gamma sequences have been reported in New Mexico since March 2021. Gamma has reduced susceptibility to some monoclonal antibody treatments. 
-This phylogeny shows evidence of community transmission of Gamma in New Mexico.
+Our data set includes 34 Gamma (P.1) sequences from New Mexico. Gamma has been reported in New Mexico since March 2021. 
+Gamma has reduced susceptibility to some monoclonal antibody treatments. This phylogeny suggests that P.1 has been introduced to New Mexico
+multiple times, and it also shows evidence of community transmission of Gamma in New Mexico.
 
 ```auspiceMainDisplayMarkdown
 
@@ -53,7 +55,39 @@ This phylogeny shows evidence of community transmission of Gamma in New Mexico.
 
 <div class="rimage default">
 
-<img height="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/P.1_NM_3June2021.png" />
+<img width="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/P.1_NM.png" />
+
+</div>
+
+```
+
+# [B.1.1.318 Lineage](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
+
+Our Nextstrain build includes 15 New Mexico sequences identified as B.1.1.318. The earliest B.1.1.318 isolate in New Mexico was collected April 6, 2021. The strains in this tree cluster with sequences from Gabon, with evidence of community transmission in New Mexico. B.1.1.318 is not currently classified as a VOC, but it contains the E484K mutation, which can reduce the efficacy of monoclonal antibody treatments.
+
+```auspiceMainDisplayMarkdown
+
+## B.1.1.318 in New Mexico
+
+<div class="rimage default">
+
+<img width="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/B.1.1.318_NM.png" />
+
+</div>
+
+```
+
+# [Delta (B.1.617.2) Lineage](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
+
+Our Nextstrain build includes 3 New Mexico sequences identified as Delta. The earliest Delta isolate in New Mexico was collected May 3, 2021. The New Mexico Delta isolates cluster most closely with strains from New York.
+
+```auspiceMainDisplayMarkdown
+
+## Delta in New Mexico
+
+<div class="rimage default">
+
+<img width="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/B.1.617.2_NM.png" />
 
 </div>
 
