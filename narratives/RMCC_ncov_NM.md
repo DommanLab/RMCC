@@ -25,9 +25,9 @@ Multiple VOCs have emerged independently from one another. This means that linea
 
 Beginning in the fall of 2020, variants of concern (VOCs) have been increasing in frequency in New Mexico.
 
-In recent weeks, the Delta variant (B.1.617.2) has been on the rise. As of July 7, 2021, 31 Delta sequences have been reported from New Mexico. Increased transmissibility has fueled the spread of Delta, and the prevalence of this variant is likely to continue increasing.
+In recent weeks, the Delta variant (B.1.617.2) has been reported in New Mexico. As of July 7, 2021, 31 Delta sequences have been reported. The prevalence of Delta sequences in New Mexico remains lower than in neighboring states. Increased transmissibility has fueled the spread of Delta, and the prevalence of this variant is likely to continue increasing.
 
-Previously, the Alpha variant (B.1.1.7, blue) had risen the dramatically in frequency and come to dominate New Mexico sequences. In May 2021, Alpha made up about 65% of New Mexico sequences. Alpha is making up a smaller percentage of sequences as Delta increases in frequency.
+Previously, the Alpha variant (B.1.1.7, blue) had risen the dramatically in frequency and come to dominate New Mexico sequences. In May 2021, Alpha made up about 65% of New Mexico sequences. Alpha continues to make up the majority of New Mexico sequences, even as Delta spreads nationally.
 
 VOCs Gamma (P.1), Epsilon (B.1.427 & B.1.249) and variant of interest (VOI) Iota (B.1.526) are currently found at low frequencies in New Mexico.
 
