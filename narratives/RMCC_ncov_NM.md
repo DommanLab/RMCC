@@ -25,9 +25,9 @@ Multiple VOCs have emerged independently from one another. This means that linea
 
 Beginning in the fall of 2020, variants of concern (VOCs) have been increasing in frequency in New Mexico.
 
-In recent weeks, the Delta variant (B.1.617.2) has been reported in New Mexico. As of July 7, 2021, 31 Delta sequences have been reported. The prevalence of Delta sequences in New Mexico remains lower than in neighboring states. Increased transmissibility has fueled the spread of Delta, and the prevalence of this variant is likely to continue increasing.
+In recent weeks, the Delta variant (B.1.617.2, green) has been reported in New Mexico. As of July 7, 2021, 31 Delta sequences have been reported. The prevalence of Delta sequences in New Mexico remains lower than in neighboring states. Increased transmissibility has fueled the spread of Delta, and the prevalence of this variant is likely to continue increasing.
 
-Previously, the Alpha variant (B.1.1.7, blue) had risen the dramatically in frequency and come to dominate New Mexico sequences. In May 2021, Alpha made up about 65% of New Mexico sequences. Alpha continues to make up the majority of New Mexico sequences, even as Delta spreads nationally.
+Previously, the Alpha variant (B.1.1.7, blue) had risen the dramatically in frequency and came to dominate New Mexico sequences. In May 2021, Alpha made up about 65% of New Mexico sequences. Alpha continues to make up the majority of New Mexico sequences, even as Delta spreads nationally.
 
 VOCs Gamma (P.1), Epsilon (B.1.427 & B.1.249) and variant of interest (VOI) Iota (B.1.526) are currently found at low frequencies in New Mexico.
 
@@ -79,7 +79,7 @@ Our Nextstrain build includes 15 New Mexico sequences identified as B.1.1.318. T
 
 # [Delta (B.1.617.2) Lineage](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
 
-Our Nextstrain build includes 3 New Mexico sequences identified as Delta. The earliest Delta isolate in New Mexico was collected May 3, 2021. The New Mexico Delta isolates cluster most closely with strains from New York.
+Our Nextstrain build includes 31 New Mexico sequences identified as Delta. The earliest Delta isolate in New Mexico was collected May 3, 2021. Many of the New Mexico Delta isolates cluster with those from neighboring states like Texas and Colorado.
 
 ```auspiceMainDisplayMarkdown
 
