@@ -45,7 +45,7 @@ VOCs Gamma (P.1), Epsilon (B.1.427 & B.1.249) and variant of interest (VOI) Iota
 
 # [Gamma (P.1) Lineage](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
 
-Our data set includes 34 Gamma (P.1) sequences from New Mexico. Gamma has been reported in New Mexico since March 2021. 
+Our data set includes 32 Gamma (P.1) sequences from New Mexico. Gamma has been reported in New Mexico since March 2021. 
 Gamma has reduced susceptibility to some monoclonal antibody treatments. This phylogeny suggests that P.1 has been introduced to New Mexico
 multiple times, and it also shows evidence of community transmission of Gamma in New Mexico.
 
@@ -63,7 +63,7 @@ multiple times, and it also shows evidence of community transmission of Gamma in
 
 # [B.1.1.318 Lineage](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
 
-Our Nextstrain build includes 15 New Mexico sequences identified as B.1.1.318. The earliest B.1.1.318 isolate in New Mexico was collected April 6, 2021. The strains in this tree cluster with sequences from Gabon, with evidence of community transmission in New Mexico. B.1.1.318 is not currently classified as a VOC, but it contains the E484K mutation, which can reduce the efficacy of monoclonal antibody treatments.
+Our Nextstrain build includes 21 New Mexico sequences identified as B.1.1.318. The earliest B.1.1.318 isolate in New Mexico was collected April 6, 2021. The strains in this tree cluster with sequences from Gabon, with evidence of community transmission in New Mexico. B.1.1.318 is not currently classified as a VOC, but it contains the E484K mutation, which can reduce the efficacy of monoclonal antibody treatments.
 
 ```auspiceMainDisplayMarkdown
 
