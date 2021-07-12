@@ -6,12 +6,12 @@ authors:
 authorLinks: 
 affiliations: "The University of New Mexico Health Sciences Center"
 date: "June 30, 2021"
-dataset: "https://nextstrain.org/community/DommanLab/RMCC@NM_narrative/ncov/WY"
+dataset: "https://nextstrain.org/community/DommanLab/RMCC@narrative_CVO/ncov/WY"
 abstract: 
 ---
 
 
-# [Variants of Concern](https://nextstrain.org/community/DommanLab/RMCC/ncov/WY?c=emerging_lineage&d=tree&f_division=Wyoming&p=full)
+# [Variants of Concern](https://nextstrain.org/community/DommanLab/RMCC@narrative_CVO/ncov/WY?c=emerging_lineage&d=tree&f_division=Wyoming&p=full)
 
 As SARS-CoV-2 replicates, it acquires mutations. Some of these mutations confer traits that benefit the virus, such as increased transmissibility. 
 These beneficial mutations increase viral fitness and give the virus variant an evolutionary advantage.
@@ -21,7 +21,7 @@ When there is evidence that a variant is associated with increased transmissibil
 
 Multiple VOCs have emerged independently from one another. This means that lineages from different clades (branches on the tree) have independently acquired mutations affecting important traits like transmissibility.
 
-# [VOCs in Wyoming](https://nextstrain.org/community/DommanLab/RMCC/ncov/WY)
+# [VOCs in Wyoming](https://nextstrain.org/community/DommanLab/RMCC@narrative_CVO/ncov/WY)
 
 Beginning in the fall of 2020, variants of concern (VOCs) have been increasing in frequency in Wyoming.
 
@@ -43,7 +43,7 @@ As of June 2021, an additional 20% of sequences came from other VOCs or variants
 
 ```
 
-# [Delta (B.1.617.2) Lineage](https://nextstrain.org/community/DommanLab/RMCC/ncov/WY)
+# [Delta (B.1.617.2) Lineage](https://nextstrain.org/community/DommanLab/RMCC@narrative_CVO/ncov/WY)
 
 The B.1.617.2 variant was first reported in India in February 2021. It is currently classified as a variant of interest (VOI) by the CDC
 based on potential reductions in the efficacy of vaccines and monoclonal antibody treatments against this variant.
@@ -64,7 +64,7 @@ As of June 30, 2021, this data set includes 20 Delta sequences from Wyoming. Thi
 
 ```
 
-# [Gamma (P.1) Lineage](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
+# [Gamma (P.1) Lineage](https://nextstrain.org/community/DommanLab/RMCC@narrative_CVO/ncov/NM)
 
 Our data set includes 28 Gamma sequences from Wyoming. Gamma sequences have been reported in Wyoming since March 2021. Gamma has reduced susceptibility to some monoclonal antibody treatments. 
 This phylogeny shows evidence of community transmission of Gamma in Wyoming.
@@ -81,7 +81,7 @@ This phylogeny shows evidence of community transmission of Gamma in Wyoming.
 
 ```
 
-# [Transmission](https://nextstrain.org/community/DommanLab/RMCC/ncov/WY)
+# [Transmission](https://nextstrain.org/community/DommanLab/RMCC@narrative_CVO/ncov/WY)
 
 Unsurprisingly, the sequencing data show evidence of transmission between Wyoming and nearby states, including Colorado, Montana, and California.
 
