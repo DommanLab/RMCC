@@ -6,12 +6,12 @@ authors:
 authorLinks: 
 affiliations: "The University of New Mexico Health Sciences Center"
 date: "July 7, 2021"
-dataset: "https://nextstrain.org/community/DommanLab/RMCC@NM_narrative/ncov/NM"
+dataset: "https://nextstrain.org/community/DommanLab/RMCC@narrative_CVO/ncov/NM"
 abstract: 
 ---
 
 
-# [Variants of Concern](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM?c=emerging_lineage&d=tree&f_division=New%20Mexico&p=full)
+# [Variants of Concern](https://nextstrain.org/community/DommanLab/RMCC@narrative_CVO/ncov/NM?c=emerging_lineage&d=tree&f_division=New%20Mexico&p=full)
 
 As SARS-CoV-2 replicates, it acquires mutations. Some of these mutations confer traits that benefit the virus, such as increased transmissibility. 
 These beneficial mutations increase viral fitness and give the virus variant an evolutionary advantage.
@@ -21,7 +21,7 @@ When there is evidence that a variant is associated with increased transmissibil
 
 Multiple VOCs have emerged independently from one another. This means that lineages from different clades (branches on the tree) have independently acquired mutations affecting important traits like transmissibility.
 
-# [VOCs in New Mexico](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
+# [VOCs in New Mexico](https://nextstrain.org/community/DommanLab/RMCC@narrative_CVO/ncov/NM)
 
 Beginning in the fall of 2020, variants of concern (VOCs) have been increasing in frequency in New Mexico.
 
@@ -43,7 +43,7 @@ VOCs Gamma (P.1), Epsilon (B.1.427 & B.1.249) and variant of interest (VOI) Iota
 
 ```
 
-# [Gamma (P.1) Lineage](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
+# [Gamma (P.1) Lineage](https://nextstrain.org/community/DommanLab/RMCC@narrative_CVO/ncov/NM)
 
 Our data set includes 32 Gamma (P.1) sequences from New Mexico. Gamma has been reported in New Mexico since March 2021. 
 Gamma has reduced susceptibility to some monoclonal antibody treatments. This phylogeny suggests that P.1 has been introduced to New Mexico
@@ -61,7 +61,7 @@ multiple times, and it also shows evidence of community transmission of Gamma in
 
 ```
 
-# [B.1.1.318 Lineage](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
+# [B.1.1.318 Lineage](https://nextstrain.org/community/DommanLab/RMCC@narrative_CVO/ncov/NM)
 
 Our Nextstrain build includes 21 New Mexico sequences identified as B.1.1.318. The earliest B.1.1.318 isolate in New Mexico was collected April 6, 2021. The strains in this tree cluster with sequences from Gabon, with evidence of community transmission in New Mexico. B.1.1.318 is not currently classified as a VOC, but it contains the E484K mutation, which can reduce the efficacy of monoclonal antibody treatments.
 
@@ -77,7 +77,7 @@ Our Nextstrain build includes 21 New Mexico sequences identified as B.1.1.318. T
 
 ```
 
-# [Delta (B.1.617.2) Lineage](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
+# [Delta (B.1.617.2) Lineage](https://nextstrain.org/community/DommanLab/RMCC@narrative_CVO/ncov/NM)
 
 Our Nextstrain build includes 31 New Mexico sequences identified as Delta. The earliest Delta isolate in New Mexico was collected May 3, 2021. Many of the New Mexico Delta isolates cluster with those from neighboring states like Texas and Colorado.
 
@@ -93,7 +93,7 @@ Our Nextstrain build includes 31 New Mexico sequences identified as Delta. The e
 
 ```
 
-# [Transmission](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
+# [Transmission](https://nextstrain.org/community/DommanLab/RMCC@narrative_CVO/ncov/NM)
 
 Unsurprisingly, the sequencing data show evidence of transmission between New Mexico and neighboring states, including Texas, Colorado, Arizona, and California.
 
