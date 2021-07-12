@@ -19,7 +19,7 @@ These beneficial mutations increase viral fitness and give the virus variant an 
 Mutations in the SARS-CoV-2 genome can also influence viral traits important to human health. 
 When there is evidence that a variant is associated with increased transmissibility, increased disease severity, or impacts the success of treatments, vaccines, or diagnostics, it may be categorized as a variant of concern (VOC).
 
-Multiple VOCs have emerged independently from one another. This means that lineages from different clades (branches on the tree) have independently acquired mutations affecting important traits like transmissibility.
+Multiple VOCs have emerged independently from one another. This means that lineages from different clades (branches on the tree) have independently acquired mutations affecting important traits like transmissibility. hello
 
 # [VOCs in New Mexico](https://nextstrain.org/community/DommanLab/RMCC@narrative_CVO/ncov/NM)
 
