@@ -5,8 +5,8 @@ authors:
   - Daryl Domman
 authorLinks: 
 affiliations: "The University of New Mexico Health Sciences Center"
-date: "July 7, 2021"
-dataset: "https://nextstrain.org/community/DommanLab/RMCC@NM_narrative/ncov/NM"
+date: "September 1, 2021"
+dataset: "https://nextstrain.org/community/DommanLab/RMCC/ncov/NM"
 abstract: 
 ---
 
@@ -25,11 +25,7 @@ Multiple VOCs have emerged independently from one another. This means that linea
 
 Beginning in the fall of 2020, variants of concern (VOCs) have been increasing in frequency in New Mexico.
 
-In recent weeks, the Delta variant (B.1.617.2, green) has been reported in New Mexico. As of July 7, 2021, 31 Delta sequences have been reported. The prevalence of Delta sequences in New Mexico remains lower than in neighboring states. Increased transmissibility has fueled the spread of Delta, and the prevalence of this variant is likely to continue increasing.
-
-Previously, the Alpha variant (B.1.1.7, blue) had risen the dramatically in frequency and came to dominate New Mexico sequences. In May 2021, Alpha made up about 65% of New Mexico sequences. Alpha continues to make up the majority of New Mexico sequences, even as Delta spreads nationally.
-
-VOCs Gamma (P.1), Epsilon (B.1.427 & B.1.249) and variant of interest (VOI) Iota (B.1.526) are currently found at low frequencies in New Mexico.
+In early 2021, the Alpha variant (B.1.1.7, blue) began rising in frequency in New Mexico and across the USA. Alpha was the dominant variant in New Mexico until the Delta variant (B.1.617.2, green) began spreading in New Mexico in the spring of 2021. The Delta variant has increased transmissibility compared to Alpha and other variants, which allowed the Delta strain to quickly outcompete other strains. Currently, almost all SARS-CoV-2 infections in New Mexico are caused by the Delta variant.
 
 ```auspiceMainDisplayMarkdown
 
