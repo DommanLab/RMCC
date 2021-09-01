@@ -11,7 +11,7 @@ abstract:
 ---
 
 
-# [Variants of Concern](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM?c=emerging_lineage&d=tree&f_division=New%20Mexico&p=full)
+# [Variants of Concern](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
 
 As SARS-CoV-2 replicates, it acquires mutations. Some of these mutations confer traits that benefit the virus, such as increased transmissibility. 
 These beneficial mutations increase viral fitness and give the virus variant an evolutionary advantage.
@@ -20,6 +20,18 @@ Mutations in the SARS-CoV-2 genome can also influence viral traits important to 
 When there is evidence that a variant is associated with increased transmissibility, increased disease severity, or impacts the success of treatments, vaccines, or diagnostics, it may be categorized as a variant of concern (VOC).
 
 Multiple VOCs have emerged independently from one another. This means that lineages from different clades (branches on the tree) have independently acquired mutations affecting important traits like transmissibility.
+
+```auspiceMainDisplayMarkdown
+
+## Emerging Lineages New Mexico
+
+<div class="rimage default">
+
+<img width="100%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/NM_VOC_tree.png" />
+
+</div>
+
+```
 
 # [VOCs in New Mexico](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
 
