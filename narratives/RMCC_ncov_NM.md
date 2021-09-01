@@ -37,7 +37,7 @@ Multiple VOCs have emerged independently from one another. This means that linea
 
 Beginning in the fall of 2020, variants of concern (VOCs) have been increasing in frequency in New Mexico.
 
-In early 2021, the Alpha variant (B.1.1.7, blue) began rising in frequency in New Mexico and across the USA. Alpha was the dominant variant in New Mexico until the Delta variant (B.1.617.2, green) began spreading in New Mexico in the spring of 2021. The Delta variant has increased transmissibility compared to Alpha and other variants, which allowed the Delta strain to quickly outcompete other strains. Currently, almost all SARS-CoV-2 infections in New Mexico are caused by the Delta variant.
+In early 2021, the Alpha variant (B.1.1.7, blue) began rising in frequency in New Mexico and across the USA. Alpha was the dominant variant in New Mexico until the Delta variant (B.1.617.2, green) began spreading in the spring of 2021. The Delta variant is more transmissible than Alpha and other variants, which allowed the Delta strain to quickly outcompete other strains. Currently, almost all SARS-CoV-2 infections in New Mexico are caused by the Delta variant.
 
 ```auspiceMainDisplayMarkdown
 
@@ -53,7 +53,7 @@ In early 2021, the Alpha variant (B.1.1.7, blue) began rising in frequency in Ne
 
 # [Delta (B.1.617.2) Lineage](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
 
-Our Nextstrain build includes 31 New Mexico sequences identified as Delta. The earliest Delta isolate in New Mexico was collected May 3, 2021. Many of the New Mexico Delta isolates cluster with those from neighboring states like Texas and Colorado.
+Nearly all recent sequences from New Mexico have been identified as Delta. The earliest Delta isolate in New Mexico was collected May 3, 2021. The phylogeny shows evidence of Delta transmission between New Mexico and neighboring states, all well as transmission within New Mexico.
 
 ```auspiceMainDisplayMarkdown
 
@@ -71,7 +71,7 @@ Our Nextstrain build includes 31 New Mexico sequences identified as Delta. The e
 
 Unsurprisingly, the sequencing data show evidence of transmission between New Mexico and neighboring states, including Texas, Colorado, Arizona, and California.
 
-This plot shows transmission data for March through May of 2021.
+This plot shows transmission data for May through August of 2021.
 
 ```auspiceMainDisplayMarkdown
 
