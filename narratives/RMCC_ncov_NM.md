@@ -74,7 +74,7 @@ Here, sequences labeled as vaccine breakthrough cases are marked in blue. From t
 
 ```auspiceMainDisplayMarkdown
 
-## Delta in New Mexico
+## Vaccine Breakthrough
 
 <div class="rimage default">
 
@@ -90,7 +90,7 @@ Clinical data show that vaccinated individuals with breakthrough Delta infection
 
 ```auspiceMainDisplayMarkdown
 
-## Delta in New Mexico
+## Vaccine Breakthrough
 
 <div class="rimage default">
 
