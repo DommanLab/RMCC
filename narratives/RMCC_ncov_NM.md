@@ -67,6 +67,39 @@ Nearly all recent sequences from New Mexico have been identified as Delta. The e
 
 ```
 
+
+# [Vaccine Breakthrough](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
+
+Here, sequences labeled as vaccine breakthrough cases are marked in blue. From the phylogeny, we can see that a diversity of virus lineages cause breakthrough infections.
+
+```auspiceMainDisplayMarkdown
+
+## Delta in New Mexico
+
+<div class="rimage default">
+
+<img width="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/NM_vbt.png" />
+
+</div>
+
+```
+
+# [Vaccine Breakthrough](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
+
+Clinical data show that vaccinated individuals with breakthrough Delta infections can transmit the virus to others. Sequencing data from New Mexico are consistent with these findings. Here, the phylogeny shows a transmission cluster in New Mexico that involves vaccinated individuals (marked in blue).
+
+```auspiceMainDisplayMarkdown
+
+## Delta in New Mexico
+
+<div class="rimage default">
+
+<img width="90%" class="plot" src="https://raw.githubusercontent.com/DommanLab/RMCC/master/images/NM_vbt_cluster.png" />
+
+</div>
+
+```
+
 # [Transmission](https://nextstrain.org/community/DommanLab/RMCC/ncov/NM)
 
 Unsurprisingly, the sequencing data show evidence of transmission between New Mexico and neighboring states, including Texas, Colorado, Arizona, and California.
